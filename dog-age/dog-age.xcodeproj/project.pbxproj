@@ -12,6 +12,7 @@
 		505C15992232DE9B003A6B68 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 505C15972232DE9B003A6B68 /* Main.storyboard */; };
 		505C159B2232DE9D003A6B68 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 505C159A2232DE9D003A6B68 /* Assets.xcassets */; };
 		505C159E2232DE9D003A6B68 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 505C159C2232DE9D003A6B68 /* LaunchScreen.storyboard */; };
+		505C15A82232E41D003A6B68 /* dog-cartoon.png in Resources */ = {isa = PBXBuildFile; fileRef = 505C15A72232E41D003A6B68 /* dog-cartoon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		505C159A2232DE9D003A6B68 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		505C159D2232DE9D003A6B68 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		505C159F2232DE9D003A6B68 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		505C15A72232E41D003A6B68 /* dog-cartoon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dog-cartoon.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		505C15922232DE9A003A6B68 /* dog-age */ = {
 			isa = PBXGroup;
 			children = (
+				505C15A72232E41D003A6B68 /* dog-cartoon.png */,
 				505C15932232DE9A003A6B68 /* AppDelegate.swift */,
 				505C15952232DE9A003A6B68 /* ViewController.swift */,
 				505C15972232DE9B003A6B68 /* Main.storyboard */,
@@ -125,6 +128,7 @@
 				505C159E2232DE9D003A6B68 /* LaunchScreen.storyboard in Resources */,
 				505C159B2232DE9D003A6B68 /* Assets.xcassets in Resources */,
 				505C15992232DE9B003A6B68 /* Main.storyboard in Resources */,
+				505C15A82232E41D003A6B68 /* dog-cartoon.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
